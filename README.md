@@ -17,7 +17,7 @@
 	--- When analysing purchasing behaviour, women emerge as the dominant buyers. Approximately 64% of the total purchases are made by women, surpassing men. Refer to the pie chart for a visual representation.
 3.	State Contributions to Sales
   ---	The top five states significantly contributing to overall sales are as follows: 
-	Maharashtra
+	 -> Maharashtra
 	Karnataka
 	Uttar Pradesh
 	Telangana
