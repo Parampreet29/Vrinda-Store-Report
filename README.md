@@ -16,19 +16,20 @@
 2.	Gender Comparison
 	--- When analysing purchasing behaviour, women emerge as the dominant buyers. Approximately 64% of the total purchases are made by women, surpassing men. Refer to the pie chart for a visual representation.
 3.	State Contributions to Sales
-  ---	The top five states significantly contributing to overall sales are as follows: 
+  ---	The top five states significantly contributing to overall sales are as follows:
+  	
 	 -> Maharashtra
 	Karnataka
 	Uttar Pradesh
 	Telangana
 	Tamil Nadu These regions play a pivotal role in driving revenue for the company.
-4.	Age Group Contributions to Order Volume
+5.	Age Group Contributions to Order Volume
 •	We’ve categorized customers into three age groups: 
 	Teenagers (Age below 30 years)
 	Adults (Age above 30 years)
 	Seniors (Age above 50 years)
 •	Among these, the adult age group stands out, contributing a substantial 50% of the total orders. Their purchasing power significantly impacts the company’s success.
-5.	Channel-wise Sales Distribution
+6.	Channel-wise Sales Distribution
 •	The following channels play a crucial role in driving sales: 
 	Amazon: Leading the way with a 35% share.
 	Flipkart: Contributing 22% to the overall sales.
