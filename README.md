@@ -19,8 +19,9 @@
   ---	The top five states significantly contributing to overall sales are as follows:
   	
 	 -> Maharashtra
-	Karnataka
-	Uttar Pradesh
+  	 ->Karnataka
+  	
+	 ->Uttar Pradesh
 	Telangana
 	Tamil Nadu These regions play a pivotal role in driving revenue for the company.
 5.	Age Group Contributions to Order Volume
